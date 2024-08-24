@@ -1,0 +1,61 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "conta_banco.ContaTerminal",
+            "projectName": "formacao-java-dev_fa35183e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "formacao-java-dev_fa35183e",
+            "args": [
+                "Robert",
+                "Miller",
+                "26"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "formacao-java-dev_fa35183e"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "formacao-java-dev_fa35183e"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "semana1.sintaxe.Operadores",
+            "projectName": "formacao-java-dev_fa35183e"
+        },
+        {
+            "type": "java",
+            "name": "Tipos",
+            "request": "launch",
+            "mainClass": "semana1.sintaxe.Tipos",
+            "projectName": "formacao-java-dev_fa35183e"
+        }
+    ]
+}
